@@ -3,14 +3,14 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image:  url("/Users/yolandamccarthy/Documents/DU Bootcamp/Train_Schedule/assets/images/207500865-background-images-for-websites-23.jpg");
+    background-image:  url("assets/images/207500865-background-images-for-websites-23.jpg");
 }
 
 .jumbotron
 {   
     padding-top: 0px;
     padding-bottom:0px;
-    background-image:url("/Users/yolandamccarthy/Documents/DU Bootcamp/Train_Schedule/assets/images/207500865-background-images-for-websites-23.jpg");
+    background-image:url("assets/images/207500865-background-images-for-websites-23.jpg");
     background-size: cover;
     background: contain;
     width: 100%; 
